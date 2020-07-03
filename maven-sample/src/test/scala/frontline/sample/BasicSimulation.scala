@@ -9,7 +9,7 @@ package frontline.sample
 import io.gatling.core.Predef._
 import io.gatling.http.Predef._
 import scala.concurrent.duration._
-gatlingloadtest-repositry
+
 class BasicSimulation extends Simulation {
 
   val httpConf = http
